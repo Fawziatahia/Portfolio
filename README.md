@@ -23,8 +23,7 @@ It is built using **HTML** and **CSS**, designed for simplicity, elegance, and r
 ```
 Portfolio/
 ├── index.html      # Main HTML file
-├── style.css       # Custom CSS styling
-└── images/         # Folder for images (add preview.png here)
+├── style.css       # Custom CSS styling     
 ```
 
 ---
@@ -60,24 +59,6 @@ Portfolio/
 
 3. **Run locally:**
    - Just open `index.html` in your browser.
-
----
-
-## Add a Preview Image
-
-Once your website is ready:
-1. Take a screenshot of your portfolio.  
-2. Save it as `preview.png` inside a folder named `images/`.  
-3. Commit and push the image to GitHub.  
-
-Example:
-```bash
-mkdir images
-mv preview.png images/
-git add images/preview.png
-git commit -m "Add portfolio preview image"
-git push
-```
 
 ---
 
