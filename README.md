@@ -1,12 +1,14 @@
-<img width="1920" height="6228" alt="screencapture-tahiaportfolio-pages-dev-2025-11-07-21_25_44" src="https://github.com/user-attachments/assets/d4696204-aac1-4d88-bd0b-48897702a50a" /># 🌸 Fawzia Tahia - Portfolio Website
+# Fawzia Tahia - Portfolio Website
 
-![Portfolio Preview](![Uploading screencapture-tahiaportfolio-pages-dev-2025-11-07-21_25_44.png…])
+<details>
+  <summary>Click to view preview</summary>
 
-> 🖼️ *Replace the above image with your screenshot once available (save it as `preview.png` in an `images/` folder).*
+  <img src="https://github.com/user-attachments/assets/d4696204-aac1-4d88-bd0b-48897702a50a" alt="Portfolio Preview" width="100%">
+</details>
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This is my personal **portfolio website**, showcasing my projects, skills, and experiences as a developer and designer.  
 It is built using **HTML** and **CSS**, designed for simplicity, elegance, and responsiveness.
@@ -16,7 +18,7 @@ It is built using **HTML** and **CSS**, designed for simplicity, elegance, and r
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 Portfolio/
@@ -27,16 +29,16 @@ Portfolio/
 
 ---
 
-## ✨ Features
+## Features
 
-- 🖥️ Clean and modern UI design  
-- 📱 Fully responsive layout  
-- 🌈 Custom color palette and typography  
-- ⚡ Lightweight and fast-loading  
+- Clean and modern UI design  
+- Fully responsive layout  
+- Custom color palette and typography  
+- Lightweight and fast-loading  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling and layout  
@@ -44,7 +46,7 @@ Portfolio/
 
 ---
 
-## 🧾 How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository:**
    ```bash
@@ -61,7 +63,7 @@ Portfolio/
 
 ---
 
-## 📸 Add a Preview Image
+## Add a Preview Image
 
 Once your website is ready:
 1. Take a screenshot of your portfolio.  
@@ -79,16 +81,9 @@ git push
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Fawzia Tahia**  
-📧 [Add your email here]  
 🌐 [https://tahiaportfolio.pages.dev](https://tahiaportfolio.pages.dev)
-
----
-
-## 🪪 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
